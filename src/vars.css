@@ -1,0 +1,67 @@
+:root {
+  --containerWidth: 1200px;
+  --containerPadding: 40px;
+
+  --breakpoint1440: 1440px;
+  --breakpoint1200: 1200px;
+  --breakpoint992: 992px;
+  --breakpoint768: 768px;
+  --breakpoint576: 576px;
+  --breakpoint420: 420px;
+  --breakpoint320: 320px;
+
+  /* Burger Menu */
+  --burgerBreakpoint: 992px;
+  --burgerColor: "black";
+  --burgerActiveColor: "white";
+
+  /* Fonts */
+  --fontMain: "", serif;
+  --fontSecondary: "";
+
+  /* Colors */
+  --greyColor: rgba(179, 176, 176, 0.4);
+  --darkenGreyColor: rgba(108, 103, 103, 0.297);
+  --whiteColor: #ffffff;
+  --darkLightColor: rgb(60, 116, 147);
+  --darkColor: #000000;
+
+  /* Fonts Size */
+  --bigFontSize: 32px;
+  --semiFontSize: 25px;
+  --normalFontSize: 19px;
+  --smallFontSize: 15px;
+
+  /* Fonts weight */
+  --thinFont: 100;
+  --extraLightFont: 200;
+  --lightFont: 300;
+  --regularFont: 400;
+  --mediumFont: 500;
+  --semiBoldFont: 600;
+  --boldFont: 700;
+  --extraBoldFont: 800;
+  --strongFont: 900;
+}
+
+/* Media */
+@media screen and (max-width: --breakpoint1440) {
+}
+
+@media screen and (max-width: --breakpoint1200) {
+}
+
+@media screen and (max-width: --breakpoint992) {
+}
+
+@media screen and (max-width: --breakpoint768) {
+}
+
+@media screen and (max-width: --breakpoint576) {
+}
+
+@media screen and (max-width: --breakpoint420) {
+}
+
+@media screen and (max-width: --breakpoint320) {
+}

@@ -1,0 +1,18 @@
+.app {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background: var(--whiteColor);
+  flex-direction: column;
+}
+
+.app__title {
+  font-size: var(--smallFontSize);
+  background: var(--greyColor);
+  color: var(--darkColor);
+  padding: 5px 15px;
+  border-radius: 15px;
+  letter-spacing: 1px;
+  margin-bottom: 10px;
+}
