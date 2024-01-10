@@ -34,7 +34,7 @@ export const useCalendar = ({
   const fetchMonthesNames = useMemo(() => getMonthesNames(locale), []);
   const fetchWeekDaysNames = useMemo(() => getWeekDaysNames(locale), []);
 
-  // Отримуємо всі дні поточного місяця
+  //? We get all the days of the current month
   const fetchDays = useMemo(
     () => selectedMonth.createMonthDays(),
     [selectedMonth, selectedYear],

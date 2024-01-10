@@ -1,4 +1,5 @@
 import { FC } from "react";
+
 import style from "./calendar.module.css";
 
 import { useCalendar } from "../hooks/useCalendar";
@@ -9,7 +10,7 @@ interface ICalendar {
   setSelectedDate: (date: Date) => void;
 }
 
-// Ф-я яка буде перевіряти сьогоднішня дата чи ні.
+//? A function that checks whether the date is today or not.
 const checkFullDate = (date1: Date, date2: Date) => {
   return (
     date1.getDate() === date2.getDate() &&

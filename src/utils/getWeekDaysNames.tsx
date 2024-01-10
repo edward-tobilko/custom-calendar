@@ -1,6 +1,6 @@
 import { createDate } from "./createDate";
 
-// Метод для отримання інформації 7-ми днів тижня
+//? Information for 7 days a week. (UA: Метод для отримання інформації 7-ми днів тижня)
 export const getWeekDaysNames = (locale: string = "default") => {
   const weekDaysNames: {
     longDay: ReturnType<typeof createDate>["longDay"];

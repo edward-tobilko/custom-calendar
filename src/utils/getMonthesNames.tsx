@@ -1,6 +1,6 @@
 import { createDate } from "./createDate";
 
-// Метод для отримання інформації 12-ти місяців
+//? Information for 12 months (UA: Метод для отримання інформації 12-ти місяців)
 export const getMonthesNames = (locale: string = "default") => {
   const monthesNames: {
     longMonth: ReturnType<typeof createDate>["longMonth"];
