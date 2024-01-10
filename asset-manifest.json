@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/custom-calendar/static/css/main.5d2c2c77.css",
+    "main.js": "/custom-calendar/static/js/main.20d79f99.js",
+    "static/media/remixicon.svg?t=1590207869815": "/custom-calendar/static/media/remixicon.9cedd2150922ead84869.svg",
+    "static/media/remixicon.eot?t=1590207869815": "/custom-calendar/static/media/remixicon.5cb99e6cba5a4619063f.eot",
+    "static/media/remixicon.ttf?t=1590207869815": "/custom-calendar/static/media/remixicon.f2616f597cf98f38d234.ttf",
+    "static/media/remixicon.woff?t=1590207869815": "/custom-calendar/static/media/remixicon.8d09fa11700ed63cf96e.woff",
+    "static/media/remixicon.woff2?t=1590207869815": "/custom-calendar/static/media/remixicon.90668f6f9b3c2c18a090.woff2",
+    "index.html": "/custom-calendar/index.html",
+    "main.5d2c2c77.css.map": "/custom-calendar/static/css/main.5d2c2c77.css.map",
+    "main.20d79f99.js.map": "/custom-calendar/static/js/main.20d79f99.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5d2c2c77.css",
+    "static/js/main.20d79f99.js"
+  ]
+}
