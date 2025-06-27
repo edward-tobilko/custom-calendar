@@ -1,6 +1,6 @@
 # Custom Calendar
 
-Link where publishes this project: https://edward-tobilko.github.io/custom-calendar/
+Link where this project is published: https://edward-tobilko.github.io/custom-calendar/
 
 ## ✔️Installation
 ### `npm clone`
